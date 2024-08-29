@@ -7,6 +7,7 @@ public class Demoproject2 {
 	public void next(int ram)
 	{
 		System.out.println("this is modified");
+		System.out.println("29/092024");
 	}
 	
 
